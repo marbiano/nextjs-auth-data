@@ -10,7 +10,7 @@
     "@babel/runtime-corejs2": "7.10.3",
     "@moxy/next-link": "0.0.1",
     "isomorphic-unfetch": "3.0.0",
-    "moment": "2.27.0",
+    "moment": "2.29.2",
     "next": "latest",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
